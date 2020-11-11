@@ -55,6 +55,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
     <p>No posts found. :(</p>
 
 <?php endif; ?>
-<?php wp_footer(); ?>
+<?php  get_footer();?>
+<?php  wp_footer();?>
 </body>
 </html>
